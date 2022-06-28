@@ -1,0 +1,20 @@
+{
+  "name": "themovieapi",
+  "version": "1.0.0",
+  "description": "API REST The Movie Database API.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSRehel/TheMovieAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSRehel/TheMovieAPI/issues"
+  },
+  "homepage": "https://github.com/CSRehel/TheMovieAPI#readme"
+}
